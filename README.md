@@ -8,6 +8,9 @@ Only a few parameter with this component 4 to be more on the ball they are as fo
 * -Width    allows you to set the width string so 400px or 100% is valid
 * -Data     vital that you must construct your data as a 2 dementional array to be passed to the chart with a title
 
+## New Parameter in version 1.0.1
+* **-BackgroundColor** Allows a string value to set the background-area colour of the chart component
+
 ## Example
 
 ```
