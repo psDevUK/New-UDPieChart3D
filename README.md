@@ -11,6 +11,14 @@ Only a few parameter with this component 4 to be more on the ball they are as fo
 ## New Parameter in version 1.0.1
 * **-BackgroundColor** Allows a string value to set the background-area colour of the chart component
 
+## New Parameters in version 1.0.2
+* **-ChartArea** Now allows you to set via a string the percentage of the actual chart width and height defaulted to "70%"
+* **-TitleFontColor** Allows you to set via a string the title font colour defaulted to "#000"
+* **-TitleFontSize** Is a numeric value allowing you to adjust the font size this is defaulted to 25
+* **-LegendPosition** A validated set 'top', 'bottom', 'left', 'right', 'none', 'labeled' defaulted to right
+* **-LegendFontSize** Is a numeric value allowing you to adjust the font size this is defaulted to 16
+* **-LegendFontColor** Allows you to set via a string the legend font colour defaulted to "#000"
+
 ## Example
 
 ```
